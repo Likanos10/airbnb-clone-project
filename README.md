@@ -23,3 +23,32 @@ Key Deliverables:
 
 This project serves as a hands-on learning experience in full-stack development, teamwork, and industry best practices.
 
+
+## UI/UX Design Planning
+
+### Design Goals
+- Create an intuitive, responsive interface for seamless property browsing and booking
+- Ensure fast loading times and smooth navigation
+- Maintain visual consistency with clean typography, spacing, and color schemes
+- Follow accessibility best practices (WCAG compliance)
+
+### Key Features
+- Property search & filtering
+- High-quality images in listings
+- Interactive maps (location preview)
+- User reviews & ratings
+- Secure & simple checkout flow
+
+### Page Descriptions
+
+| Page | Description |
+|------|------------|
+| Property Listing View | Displays available properties as cards with images, price, location, and ratings. Includes search/filter options. |
+| Listing Detailed View | Shows full property details (photos, amenities, host info, reviews, booking calendar). |
+| Simple Checkout View | A minimal, step-by-step booking form (dates, guest count, payment, confirmation). |
+
+### Why User-Friendly Design Matters
+- Reduces bounce rates - A confusing layout drives users away
+- Improves conversions - Smooth checkout = more completed bookings
+- Enhances trust - Professional design increases credibility
+- Mobile-first approach - Over 50% of bookings happen on phones
