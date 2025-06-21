@@ -1,28 +1,24 @@
 # airbnb-clone-project
-Project Overview: AirBnB Clone
-Project Goals:
--Develop a full-stack clone of AirBnB with core functionalities, including property listings, detailed property views, and   booking systems.
--Implement a responsive and user-friendly UI/UX design.
--Build a scalable backend with APIs and efficient database design.
--Foster teamwork with clearly defined roles and responsibilities.
--Follow best practices in coding, version control, testing, and deployment.
+## **Project Overview**  
+A full-stack clone of AirBnB, allowing users to browse property listings, view details, and make bookings.  
 
-Tech Stack:
--Frontend: HTML, CSS, JavaScript (React or similar framework)
--Version Control: Git & GitHub
--Design Tools: Figma (for UI/UX prototyping)
--Backend & Database: (Not explicitly mentioned, but typically Node.js/Express + PostgreSQL/MongoDB for a full-stack app)
--Testing: Unit & integration testing (tools like Jest, React Testing Library)
+## **Project Goals**  
+- Build a responsive, user-friendly booking platform.  
+- Implement frontend (React) and backend (Node.js/Express) functionality.  
+- Use a database (PostgreSQL/MongoDB) to store listings and user data.  
+- Follow best practices in coding, testing, and deployment.  
 
-Key Deliverables:
--GitHub repo with proper documentation (README, project structure).
--Figma designs for UI/UX planning (color schemes, typography, component structure).
--Reusable frontend components with a well-documented architecture.
--Team role assignments and contribution tracking.
--Deployment of a functional web application.
+## **Tech Stack**  
+- **Frontend:** React, HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express  
+- **Database:** PostgreSQL / MongoDB  
+- **Version Control:** Git & GitHub  
+- **Design:** Figma (for UI/UX mockups)  
 
-This project serves as a hands-on learning experience in full-stack development, teamwork, and industry best practices.
-
+## **Getting Started**  
+1. Clone this repo:  
+   ```bash
+   git clone https://github.com/your-username/airbnb-clone-project.git
 
 ## UI/UX Design Planning
 
@@ -93,3 +89,54 @@ This project serves as a hands-on learning experience in full-stack development,
 | **DevOps Engineer** | - CI/CD pipeline setup<br>- Deployment automation<br>- Monitoring | Maintains deployment infrastructure |
 | **Product Owner**   | - Define requirements<br>- Prioritize features<br>- Stakeholder communication | Bridges business and technical needs |
 | **Scrum Master**    | - Facilitate standups<br>- Remove blockers<br>- Maintain agile process | Optimizes team workflow |
+
+
+## **UI Component Patterns**
+
+### **Planned Components**
+
+#### 1. Navbar
+- **Purpose**: Main navigation and user authentication
+- **Features**:
+  - Logo and brand identity
+  - Search bar
+  - User profile dropdown
+  - Responsive hamburger menu (mobile)
+
+#### 2. Property Card
+- **Purpose**: Display property listings
+- **Features**:
+  - Property image carousel
+  - Price, location, and rating
+  - Favorite/heart icon
+  - Responsive grid layout
+
+#### 3. Search Filters
+- **Purpose**: Refine property searches
+- **Features**:
+  - Date picker
+  - Guest counter
+  - Price range slider
+  - Amenities checklist
+
+#### 4. Footer
+- **Purpose**: Site navigation and information
+- **Features**:
+  - Quick links
+  - Social media icons
+  - Copyright information
+  - Contact details
+
+#### 5. Booking Modal
+- **Purpose**: Handle reservation flow
+- **Features**:
+  - Date selection
+  - Price calculation
+  - Payment form
+  - Confirmation message
+
+### **Component Architecture**
+- **Reusable**: Designed for multiple use cases
+- **Modular**: Independent functionality
+- **Responsive**: Mobile-first approach
+- **Accessible**: WCAG compliant
