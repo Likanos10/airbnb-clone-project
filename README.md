@@ -79,3 +79,17 @@ This project serves as a hands-on learning experience in full-stack development,
 3. **Brand Identity** - Maintains recognizable look-and-feel
 4. **Responsiveness** - Guides adaptive design for all devices
 5. **Team Alignment** - Serves as single source of truth for designers/devs
+
+
+## **Project Roles and Responsibilities**
+
+| Role                | Key Responsibilities | Contribution to Project |
+|---------------------|----------------------|-------------------------|
+| **Project Manager** | - Define project timeline<br>- Coordinate team efforts<br>- Risk management | Ensures on-time delivery and team alignment |
+| **Frontend Devs**   | - Implement UI components<br>- Ensure responsive design<br>- Integrate with APIs | Builds user-facing interfaces |
+| **Backend Devs**    | - Develop APIs<br>- Database design<br>- Authentication logic | Powers application functionality |
+| **Designers**       | - Create Figma mockups<br>- Define design system<br>- UX research | Shapes visual identity and usability |
+| **QA/Testers**      | - Write test cases<br>- Report bugs<br>- Performance testing | Ensures product reliability |
+| **DevOps Engineer** | - CI/CD pipeline setup<br>- Deployment automation<br>- Monitoring | Maintains deployment infrastructure |
+| **Product Owner**   | - Define requirements<br>- Prioritize features<br>- Stakeholder communication | Bridges business and technical needs |
+| **Scrum Master**    | - Facilitate standups<br>- Remove blockers<br>- Maintain agile process | Optimizes team workflow |
