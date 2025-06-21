@@ -52,3 +52,30 @@ This project serves as a hands-on learning experience in full-stack development,
 - Improves conversions - Smooth checkout = more completed bookings
 - Enhances trust - Professional design increases credibility
 - Mobile-first approach - Over 50% of bookings happen on phones
+
+
+### **Figma Design Specifications**
+
+#### **Color Styles**
+- Primary: `#FF5A5F` (Airbnb-style coral)
+- Secondary: `#008489` (Teal)
+- Background: `#FFFFFF` (White)
+- Text: `#222222` (Dark Gray)
+- Accent: `#FFB400` (Yellow)
+- Error: `#FF0000` (Red)
+
+#### **Typography**
+| Type          | Font Family | Weight | Size  | Use Case               |
+|---------------|------------|--------|-------|------------------------|
+| Heading 1     | Circular   | Bold   | 32px  | Page titles            |
+| Heading 2     | Circular   | SemiBold | 24px  | Section headers        |
+| Body Text     | Circular   | Regular | 16px  | Paragraphs             |
+| Button Text   | Circular   | Medium | 14px  | CTA buttons            |
+| Caption       | Circular   | Light  | 12px  | Image captions         |
+
+#### **Why Design Properties Matter**
+1. **Consistency** - Ensures uniform visuals across all screens
+2. **Efficiency** - Developers can implement styles faster
+3. **Brand Identity** - Maintains recognizable look-and-feel
+4. **Responsiveness** - Guides adaptive design for all devices
+5. **Team Alignment** - Serves as single source of truth for designers/devs
